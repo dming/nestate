@@ -1,0 +1,14 @@
+{
+  "name": "nestate",
+  "version": "0.0.1",
+  "description": "stateful server base on nest.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dming",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
